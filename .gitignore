@@ -1,2 +1,4 @@
 
 .DS_Store
+Doxygen/html/*
+Doxygen/latex/*
